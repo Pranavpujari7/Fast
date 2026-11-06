@@ -1,5 +1,5 @@
 {
-  "name": "Quick Decode",
+  "name": "Fast Decode",
   "description": "Double-tap (or hold) a heist puzzle message and your Decode app runs instantly (no Apps menu).",
   "authors": [{ "name": "you", "id": "0" }],
   "main": "index.js",
